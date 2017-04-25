@@ -1,0 +1,12 @@
+{
+	"name": "StickIt Logo",
+	"owner": "Max",
+	"pallete": [ "transparent", "pink", "lightgreen", "teal"],
+	"rows": [
+		[ 0, 2, 2, 2, 1],
+		[ 1, 2, 1, 1, 1],
+		[ 1, 2, 2, 2, 1],
+		[ 1, 1, 1, 2, 1],
+		[ 1, 2, 2, 2, 1]
+	]
+}
